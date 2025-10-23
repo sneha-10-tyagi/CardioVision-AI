@@ -45,26 +45,6 @@ The project was executed in four main phases:
 
 ---
 
-## ## Setup and Usage
-
-To replicate this project, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)<Your-Username>/Retinal-Cardio-Risk-AI.git
-    cd Retinal-Cardio-Risk-AI
-    ```
-
-2.  **Set up the environment:**
-    The project is designed to run in a Google Colab notebook. Upload the `.ipynb` file to Colab and ensure the runtime is set to `T4 GPU`.
-
-3.  **Download the Dataset:**
-    The notebook includes commands to download the required dataset directly from Kaggle using the Kaggle API. You will need to upload your `kaggle.json` key when prompted.
-
-4.  **Run the Notebook:**
-    Execute the cells in the notebook sequentially to perform data preparation, model training, and evaluation.
-
----
 
 ## ## Future Work
 
